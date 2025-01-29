@@ -48,7 +48,7 @@ const config: Config = {
       isCloseable: true,
     },
     navbar: {
-      title: 'Le romanum',
+      title: 'The Flight Attendant Job',
       logo: {
         alt: '',
         src: 'img/logo.svg',
@@ -58,7 +58,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'La visite',
+          label: 'Le job',
         },
       ],
     },
