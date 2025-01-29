@@ -4,14 +4,15 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: '🏛️ Introduction',
-      items: [
+      label: '🏛️ Welcome
         '🏛️intro/intro',
+        '🏛️intro/what',
+        '🏛️intro/who',
       ],
     },
     {
       type: 'category',
-      label: '🎓Les lieux clés',
+      label: '🎓',
       items: [
         '💻developpement/💻developpement',
       ],
