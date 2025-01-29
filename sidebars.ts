@@ -6,13 +6,11 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '🏛️ Welcome
         '🏛️intro/intro',
-        '🏛️intro/what',
-        '🏛️intro/who',
       ],
     },
     {
       type: 'category',
-      label: '🎓',
+      label: '🎓The job',
       items: [
         '💻developpement/💻developpement',
       ],
