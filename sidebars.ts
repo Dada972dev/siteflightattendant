@@ -4,13 +4,14 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: '🏛️ Welcome
-        '🏛️intro/intro',
+      label: '🏛️ Welcome', // Fixed the label string by properly closing the quote
+      items: [
+        '🏛️intro/intro', // Properly formatted the item
       ],
     },
     {
       type: 'category',
-      label: '🎓The job',
+      label: '🎓 The job', // Properly formatted label with a space
       items: [
         '💻developpement/💻developpement',
       ],
