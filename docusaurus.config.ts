@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 import { Analytics } from "@vercel/analytics/react"
 
 const config: Config = {
-  title: 'Flight Attendant post',
-  tagline: 'Welcome',
+  title: '',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   url: 'https://ladomusweb.vercel.app/',
@@ -48,7 +48,7 @@ const config: Config = {
       isCloseable: true,
     },
     navbar: {
-      title: 'The Flight Attendant Job',
+      title: 'Maintenance',
       logo: {
         alt: '',
         src: 'img/logo.svg',
@@ -58,7 +58,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Le job',
+          label: '   ',
         },
       ],
     },
