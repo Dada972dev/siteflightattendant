@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 import { Analytics } from "@vercel/analytics/react"
 
 const config: Config = {
-  title: '',
-  tagline: '',
+  title: 'Maintenance',
+  tagline: 'Ms',
   favicon: 'img/favicon.ico',
 
   url: 'https://ladomusweb.vercel.app/',
